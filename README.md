@@ -3,7 +3,7 @@
 ## AIM
 To Write a html webpage page to display your timetable.
 
-# ALGORITHM
+## ALGORITHM
 ### STEP 1
 create a simple table using table tag
 ### STEP 2
@@ -13,7 +13,7 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+## CODE
 ```
 <!DOCTYPE html>
 <html>
@@ -108,7 +108,10 @@ Execute the program
         </tr>
     </table>
 </body>
-
-</html>
+Developed by : G.Chethan kumar.
+Reference No.: 22005596.
 ```
-# OUPUT
+## OUTPUT
+![Screenshot_20230109_094959](https://user-images.githubusercontent.com/118348224/211312902-5aa8a63c-c3d9-46b8-8fed-7150dde8b845.jpg)
+
+
