@@ -112,6 +112,10 @@ Developed by : G.Chethan kumar.
 Reference No.: 22005596.
 ```
 ## OUTPUT
+
 ![Screenshot_20230109_094959](https://user-images.githubusercontent.com/118348224/211312902-5aa8a63c-c3d9-46b8-8fed-7150dde8b845.jpg)
 
+## RESULT
+
+The program for creating slot time table is completed successfully.
 
